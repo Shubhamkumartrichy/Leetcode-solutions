@@ -47,8 +47,6 @@ I encourage contributions from the community. If you'd like to contribute to thi
 2. Fork the repository, create a branch for your changes, and submit a pull request.
 3. Add your own solutions for LeetCode problems that are not already in this repository.
 
-Please follow the repository's [contribution guidelines](CONTRIBUTING.md) when submitting pull requests.
-
 ## Contact
 
 If you have any questions or want to reach out, you can contact me at [shubhamkumartrichy@gmail.com](mailto:shubhamkumartrichy@gmail.com).
